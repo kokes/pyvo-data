@@ -19,7 +19,7 @@ talks:
   - http://lanyrd.com/2014/praha-pyvo-january/sctzmw/
   coverage:
   - slides: https://speakerdeck.com/encukou/proc-nepouzivat-vitrualenv
-  - video: http://www.youtube.com/watch?v=kVr0JkQ5Ap0
+  - video: https://www.youtube.com/watch?v=PFLbFKBZJus
 - title: Jak sháníme pythonisty v Outcommu
   speakers:
   - Daniel Srb
